@@ -11,7 +11,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
   <li>Who are the most prolific musicians in terms of halftime show performances?</li>
 </ul>
 
-<b>Conclusion</b></n>
-So most non-band musicians do 1-3 songs per halftime show. It's important to note that the duration of the halftime show is fixed (roughly 12 minutes) so songs per performance is more a measure of how many hit songs you have. JT went off in 2018, wow. 11 songs! Diana Ross comes in second with 10 in her medley in 1996.
+<p><b>Conclusion</b></p>
+<p>So most non-band musicians do 1-3 songs per halftime show. It's important to note that the duration of the halftime show is fixed (roughly 12 minutes) so songs per performance is more a measure of how many hit songs you have. JT went off in 2018, wow. 11 songs! Diana Ross comes in second with 10 in her medley in 1996.
 
-In this notebook, I loaded, cleaned, then explored Super Bowl game, television, and halftime show data. Also visualized the distributions of combined points, point differences, and halftime show performances using histograms. For this were used line plots to see how ad cost increases lagged behind viewership increases. And i discovered that blowouts do appear to lead to a drop in viewers.
+In this notebook, I loaded, cleaned, then explored Super Bowl game, television, and halftime show data. Also visualized the distributions of combined points, point differences, and halftime show performances using histograms. For this were used line plots to see how ad cost increases lagged behind viewership increases. And i discovered that blowouts do appear to lead to a drop in viewers.</p>
